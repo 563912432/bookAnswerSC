@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/app.81df98a1b43e200b2c48.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/app.dffc1c3191b499e8d99f.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/app.f7ffeb11f332b6c08025.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/manifest.47883e2a41468d5d7772.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/manifest.bb3a8c2176ca5cf14de1.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/manifest.d86393cccfaf74c60495.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/photoswipe-ui-default.min.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/photoswipe.min.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/vendor.56bf8401a5ddea9c5d6e.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/vendor.7bcbf5166fe48c964f4c.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/vendor.b486abd0b416592e63da.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/router/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/index.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/src/store/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/vendor.7bcbf5166fe48c964f4c.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/vendor.56bf8401a5ddea9c5d6e.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/manifest.bb3a8c2176ca5cf14de1.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/manifest.d86393cccfaf74c60495.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/photoswipe-ui-default.min.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/app.dffc1c3191b499e8d99f.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/photoswipe.min.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/vendor.b486abd0b416592e63da.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/app.81df98a1b43e200b2c48.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/router/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/app.f7ffeb11f332b6c08025.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/manifest.47883e2a41468d5d7772.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
